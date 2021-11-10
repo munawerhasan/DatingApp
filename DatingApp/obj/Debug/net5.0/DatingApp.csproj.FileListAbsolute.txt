@@ -60,3 +60,5 @@ D:\Projects\AIS\DatingApp\DatingApp\obj\Debug\net5.0\ref\DatingApp.dll
 D:\Projects\AIS\DatingApp\DatingApp\obj\Debug\net5.0\DatingApp.pdb
 D:\Projects\AIS\DatingApp\DatingApp\obj\Debug\net5.0\DatingApp.genruntimeconfig.cache
 D:\Projects\AIS\DatingApp\DatingApp\obj\Debug\net5.0\DatingApp.csproj.AssemblyReference.cache
+D:\Projects\AIS\DatingApp\DatingApp\bin\Debug\net5.0\AutoMapper.dll
+D:\Projects\AIS\DatingApp\DatingApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
